@@ -1,0 +1,13 @@
+body{
+    background-color: #023841;
+}
+.img__body{
+    padding: none;
+    background-color: rgb(88, 134, 18);
+    width:auto;
+    height: 11rem;
+    background-image: url(./components/styles/img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

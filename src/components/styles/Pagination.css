@@ -1,0 +1,24 @@
+.pagination{
+    color:#FBFBFB ;
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+    align-items: center;
+    text-align: center;
+    cursor:pointer;
+    justify-content:center;
+    overflow: hidden;
+    position: relative;
+}
+.pagination__num{
+    display: flex;
+    padding: 1.5rem;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+.pagination__num:hover{
+    background-color: #062226;
+}

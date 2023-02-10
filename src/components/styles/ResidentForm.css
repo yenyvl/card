@@ -1,0 +1,18 @@
+.redidentFrom{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+.redidentFrom__input{
+    background-color:#062226;
+    font-size: 1rem;
+    border-color: #062226  ;
+}
+.redidentFrom__button{
+    background-color: #062226;
+    color: white;
+    font-size: 1rem;
+    border-color: white;
+}

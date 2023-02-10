@@ -1,0 +1,25 @@
+.locationInfo{
+    padding: 1rem;
+    background-color: #062226;
+    color: white;
+}
+.locationInfo__title{
+    text-align: center;
+    padding: 1rem;
+}
+.locationInfo__info{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+}
+.locationInfo__items{
+    flex-direction: column;
+    display: flex;
+    color: #7E7E7E;
+}
+.locationInfo__items span{
+    font-size: 1rem;
+    color: white;
+}
